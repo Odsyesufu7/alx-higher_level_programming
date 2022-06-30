@@ -1,4 +1,3 @@
-
 #!/usr/bin/python3
 import calculator_1
 import sys
@@ -32,5 +31,3 @@ if __name__ == '__main__':
             elif op == "/":
                 print(f"{a} {op} {b} = {calculator_1.div(a, b)}")
             sys.exit(0)
-
-
