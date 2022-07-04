@@ -1,5 +1,5 @@
+Python - Data Structures: Lists, Tuples
 
-<<<<<<< HEAD
 This is the repository descriptive of the Project
 
 0-Write a function that prints all integers of a list.
@@ -32,6 +32,3 @@ This is the repository descriptive of the Project
 
 14-Create a C function that prints some basic info about Python lists.
 
-
-=======
->>>>>>> 5dc9008c651a2cbef6f79542811de87fe1ccc160
