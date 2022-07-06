@@ -1,4 +1,5 @@
 
+<<<<<<< HEAD
 This is repository descriptive of the Project.
 
 0-Write a function that computes the square value of all integers of a matrix.
@@ -36,3 +37,5 @@ This is repository descriptive of the Project.
 16-Create two C functions that print some basic info about Python lists and Python bytes objects.
 
 
+=======
+>>>>>>> 5ad920c3daa6fb378a7dd72726d8f2aaec69afab
