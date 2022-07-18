@@ -3,6 +3,7 @@ Python - More Data Structures: Set, Dictionary Python
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 This is repository descriptive of the Project.
 
 0-Write a function that computes the square value of all integers of a matrix.
@@ -45,6 +46,8 @@ This is repository descriptive of the Project.
 =======
 =======
 >>>>>>> 2fec254ff6e8833b9fa4b8780b34b50385617865
+=======
+>>>>>>> 2fec254ff6e8833b9fa4b8780b34b50385617865
 0. Write a function that computes the square value of all integers of a matrix.
 1. Write a function that replaces all occurrences of an element by another in a new list.
 2. Write a function that adds all unique integers in a list (only once for each integer).
@@ -63,6 +66,9 @@ This is repository descriptive of the Project.
 15. Write a function that deletes keys with a specific value in a dictionary.
 16. Create two C functions that print some basic info about Python lists and Python bytes objects.
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> 2fec254ff6e8833b9fa4b8780b34b50385617865
+=======
 >>>>>>> 2fec254ff6e8833b9fa4b8780b34b50385617865
 =======
 >>>>>>> 2fec254ff6e8833b9fa4b8780b34b50385617865
